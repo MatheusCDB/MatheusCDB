@@ -13,9 +13,3 @@ Atuo com Cybersecurity, virtualização, backup, infraestrutura de rede.
 ![Wazuh](https://img.shields.io/badge/Wazuh-3C3C3C?style=for-the-badge&logo=wazuh&logoColor=white)![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCDB/MatheusCDB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCDB/MatheusCDB/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/MatheusCDB/MatheusCDB/output/github-contribution-grid-snake.svg">
-</picture>
